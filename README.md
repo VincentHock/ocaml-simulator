@@ -1,2 +1,2 @@
 # ocaml-simulator
-Implementation of the OCaml language with core functionalities.
+Basic implementation of the OCaml language with core functionalities using OCaml. 
